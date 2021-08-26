@@ -11,3 +11,5 @@
 #### MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=ntp0923&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ntp0923&theme=radical"/>|
 |---|---|
+
+<img src="https://raw.githubusercontent.com/amaravindmenon/amaravindmenon/main/dev-working.gif" alt="ntp0923" style="max-width:100%;">
